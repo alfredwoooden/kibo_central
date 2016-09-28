@@ -1,1 +1,1 @@
-# kibo_central
+# KIBO main Ethereum contracts
